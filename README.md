@@ -37,7 +37,7 @@ c. Detect any unusual patterns, such as:
 
 d. Provide a brief summary of your findings, highlighting any sequences or patterns that stand out.
 
-Your code should be well-commented and efficiently implemented.
+Your code should be well-commented and efficiently implemented. You are free to use any libraries installable from PyPI, if your code has any specific dependencies beyond base python please include a `requirements.txt` or `pyproject.toml` file in your submission.
 
 ## Returning your exercise
 
