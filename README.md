@@ -46,4 +46,4 @@ Please return either
 * an executable python script and write-up file in markdown format (n.b. the University of Edinburgh email system strips attachments with a `.py` extension, therefore please return both files combined in a commonly used archive format, i.e., `.zip`, `.tar`, or `.tar.gz` )
 * a jupyter notebook containing both the code and write-up
 
-to [Wilna Oosthuyzen](wilna.oosthuyzen@ed.ac.uk) by **Thursday, 23rd of January 2025, 12:00 UTC**.
+to [Wilna Oosthuyzen](wilna.oosthuyzen@ed.ac.uk) by **Tuesday, 21st of January 2025, 18:00 UTC**.
